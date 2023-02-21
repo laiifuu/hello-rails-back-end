@@ -1,0 +1,5 @@
+Greeting.create(greeting_text: 'Hello')
+Greeting.create(greeting_text: 'What\'s up?')
+Greeting.create(greeting_text: 'How you doing ? ;)')
+Greeting.create(greeting_text: 'Hello, it\'s me.')
+Greeting.create(greeting_text: 'Hello from the databaaaaaaaaase')
